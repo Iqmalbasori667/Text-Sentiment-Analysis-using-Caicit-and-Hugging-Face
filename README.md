@@ -1,5 +1,5 @@
 
-## 🤖 The Art of Prompt Engineering 🤖
+## 🤖 Text Sentiment Analysis using Caicit and Hugging Face 🤖
 
 Author: Cognitive Class AI
 
