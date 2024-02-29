@@ -5,7 +5,7 @@ Author: Cognitive Class AI
 
 Mentee assignment from IBM Advance A.I. 
 
-@ Infinite Learning Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+@ Infinite Learning Course completion of Text Sentiment Analysis using Caicit and Hugging Face from CognitiveClass.ai
 
 ## Mentee Info 👨‍🎓
 Name : Muhammad Iqmal Basori
